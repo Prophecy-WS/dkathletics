@@ -1,0 +1,8 @@
+{
+  "name": "dkathletics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Prophecy-WS/dkathletics.git",
+  "author": "shawnpmarcotte <shawnmarcottejr@gmail.com>",
+  "license": "MIT"
+}
