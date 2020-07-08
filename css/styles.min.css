@@ -7492,7 +7492,7 @@ h3
     -webkit-align-items: center;
        -moz-box-align: center;
     -ms-flex-align: center;
-            align-items: center;
+            align-items: inherit;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
        -moz-box-pack: start;
