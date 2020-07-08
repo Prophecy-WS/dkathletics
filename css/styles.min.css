@@ -834,7 +834,7 @@ h3
 }
 .socials a:hover
 {
-    color: #1ad5b1;
+    color: #651fff;
 }
 
 .logo
@@ -859,7 +859,7 @@ h3
 }
 .work-time .time
 {
-    color: #1ad5b1;
+    color: white;
 }
 
 .nav
@@ -929,7 +929,7 @@ h3
     white-space: nowrap;
     text-transform: uppercase;
 
-    color: #1ad5b1;
+    color: #651fff;
 }
 
 @media only screen and (max-width: 1200px)
@@ -1082,9 +1082,8 @@ h3
     top: 58%;
 
     letter-spacing: 10px;
-    text-transform: uppercase; 
 
-    color: #1ad5b1;
+    color: white;
 }
 .big-title.under-part
 {
