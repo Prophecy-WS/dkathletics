@@ -1760,7 +1760,7 @@ h3
     min-height: 950px; 
     padding: 10rem 0;
 
-    background: url(../images/bg-fitness-club.jpg) no-repeat center top;
+    background: url(../images/fitness-club.jpg) no-repeat center top;
     -moz-background-size: cover;
       -o-background-size: cover;
          background-size: cover;
@@ -1806,8 +1806,8 @@ h3
             transform: rotate(45deg);
     vertical-align: middle;
 
-    color: #1ad5b1;
-    border: 1px solid #1ad5b1;
+    color: #651fff;
+    border: 1px solid #651fff;
     background: transparent;
 }
 .custom-arrows__item button .rhomb i
@@ -1845,7 +1845,7 @@ h3
             transition: all .3s ease-out;
 
     opacity: 0;
-    background: #1ad5b1;
+    background: #651fff;
 }
 .custom-arrows__item button .rhomb::after
 {
@@ -1864,7 +1864,7 @@ h3
             transition: all .3s ease-out;
 
     opacity: 0;
-    background: #1ad5b1;
+    background: #651fff;
 }
 .custom-arrows__item button .rhomb:hover
 {
@@ -1956,7 +1956,7 @@ h3
     width: 38.1%;
     height: 120px; 
 
-    background: #fff;
+    background: black;
 }
 .article-wrapper .corner-left span,
 .article-wrapper .corner-right span
@@ -1967,7 +1967,7 @@ h3
 
     display: inline-block;
 
-    border: 60px solid #fff;
+    border: 60px solid black;
     border-top-color: transparent;
 }
 .article-wrapper .corner-left span
@@ -1990,7 +1990,7 @@ h3
 .custom-arrows
 {
     position: absolute;
-    top: 37%;
+    top: 36.5%;
     bottom: 50px;
     left: 50%;
 
@@ -2880,7 +2880,7 @@ h3
 {
     padding: 10rem 0; 
 
-    background: url(../images/prices-bg-vol2.jpg) no-repeat center 0;
+    background: url(../images/prices-bg-vol-2.jpg) no-repeat center 0;
     -moz-background-size: cover;
       -o-background-size: cover;
          background-size: cover;
@@ -3626,7 +3626,7 @@ h3
          -o-transition: all .2s ease;
             transition: all .2s ease;
 
-    background: #fff;
+    background: #000;
     -webkit-box-shadow: 9px 20px 90px -15px #b5b4d1;
        -moz-box-shadow: 9px 20px 90px -15px #b5b4d1;
             box-shadow: 9px 20px 90px -15px #b5b4d1; 
@@ -5984,7 +5984,7 @@ h3
 {
     padding: 10rem 0; 
 
-    background: #fff;
+    background: #000;
 }
 .contacts .block-title
 {
@@ -6918,7 +6918,7 @@ h3
     width: 100%;
     height: 100vh;
 
-    background: #6763e8;
+    background: #000;
 }
 
 .loading-center
@@ -6951,7 +6951,7 @@ h3
     width: 20px;
     height: 20px;
 
-    background-color: #fff;
+    background-color: #651fff;
 }
 
 .object:nth-child(2n+0)
