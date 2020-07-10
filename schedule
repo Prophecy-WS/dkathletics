@@ -1,0 +1,1287 @@
+ <!-- START: schedule-->
+      <!-- <div class="schedule-vol2">
+        <div class="container">
+          <div class="block-title">
+            <div class="title">
+              <span data-description="Classes">Schedule</span>
+            </div>
+            <div class="line"></div>
+          </div>
+          <div class="schedule-tabs">
+            <div class="schedule-tabs__wrapper">
+              <ul class="nav" role="tablist">
+                <li class="active">
+                  <a href="#schedule-vol-1" data-toggle="tab">Monday</a>
+                </li>
+                <li>
+                  <a href="#schedule-vol-2" data-toggle="tab">Tuesday</a>
+                </li>
+                <li>
+                  <a href="#schedule-vol-3" data-toggle="tab">Wednesday</a>
+                </li>
+                <li>
+                  <a href="#schedule-vol-4" data-toggle="tab">Thursday</a>
+                </li>
+                <li>
+                  <a href="#schedule-vol-5" data-toggle="tab">Friday</a>
+                </li>
+                <li>
+                  <a href="#schedule-vol-6" data-toggle="tab">Saturday</a>
+                </li>
+                <li>
+                  <a href="#schedule-vol-7" data-toggle="tab">Sunday</a>
+                </li>
+              </ul>
+            </div>
+            <div class="tab-content tab-content__vol2">
+              <div class="tab-pane fade in active" id="schedule-vol-1">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Programming</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade in" id="schedule-vol-2">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade in" id="schedule-vol-3">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade in" id="schedule-vol-4">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade in" id="schedule-vol-5">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade in" id="schedule-vol-6">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade in" id="schedule-vol-7">
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">Crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-crossfit"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">weight loose program</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-yoga"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">yoga classes</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row schedule-row">
+                  <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__icon">
+                        <div class="icon-holder">
+                          <span class="icon-bg">
+
+                            <span class="icon-speed"></span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-2 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__title">crossfit</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-2 col-sm-4 col-xs-4">
+                    <div class="schedule-item">
+                      <div class="schedule-item__time">
+                        <span class="time">
+
+                          <span class="content">08:00 AM - 09:00 PM</span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                    <div class="schedule-item">
+                      <div class="schedule-item__coach">Jonh Dou</div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+                    <div class="schedule-item btn-right-col">
+                      <div class="about-us-btn">
+                        <a href="#" class="btn primary white" tabindex="0">
+                          <span class="border"></span>
+                          <span class="btn-content">join now !</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      END: schedule -->
