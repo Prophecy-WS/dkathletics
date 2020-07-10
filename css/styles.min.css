@@ -243,8 +243,8 @@ body
     font: 16px 'Open Sans', sans-serif;
     line-height: 1em;
 
-    color: #272d39;
-    background: #fff;
+    color: white;
+    background: black;
 }
 
 p
@@ -373,7 +373,7 @@ h3
 }
 .block-title.light .title span
 {
-    color: #171838;
+    color: #651fff;
 }
 .block-title.light .title span::before
 {
@@ -1196,7 +1196,7 @@ h3
 {
     padding: 10rem 0; 
 
-    background: #fff;
+    background: black;
 }
 .popular-classes .tab-pane .block-title .title span
 {
@@ -1913,7 +1913,7 @@ h3
     padding-bottom: 6.66rem; 
     padding-left: 100px;
 
-    background: #fff;
+    background: black;
 }
 .article-wrapper .article
 {
