@@ -1761,10 +1761,17 @@ h3
     min-height: 950px; 
     padding: 10rem 0;
 
-    background: url(../images/fitness-club.jpg) no-repeat center top;
+    background:  no-repeat center top;
     -moz-background-size: cover;
       -o-background-size: cover;
          background-size: cover;
+         background-image: linear-gradient(
+      to right top,
+      rgb(101,31,255),
+      rgba(189, 195, 199, 0.503),
+      rgba(46, 49, 49),
+      rgb(101,31,255, 0.303)
+    ), url(../images/fitness-club-3.jpg)
 }
 .classes-vol2 .block-title
 {
@@ -3578,10 +3585,17 @@ h3
     height: 1080px;
     padding: 10rem 0;
 
-    background: url(../images/services-bg.jpg) no-repeat center center;
+    background: no-repeat center center;
     -moz-background-size: cover;
       -o-background-size: cover;
          background-size: cover;
+         background-image: linear-gradient(
+      to right top,
+      rgb(101,31,255, 0.303),
+      rgba(189, 195, 199, 0.503),
+      rgba(46, 49, 49, 0.803),
+      rgb(101,31,255, 0.303)
+    ), url(../images/fitness-club.jpg)
 }
 .stories-vol2 .custom-arrows
 {
