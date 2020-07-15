@@ -7786,10 +7786,8 @@ h3
 /* END: footer block style =============*/
 .gradient-bg
 {
-    background: -webkit-linear-gradient(315deg, #6c67f0 34%, #171838 0%);
-    background:    -moz-linear-gradient(315deg, #6c67f0 34%, #171838 0%);
-    background:      -o-linear-gradient(315deg, #6c67f0 34%, #171838 0%);
-    background:         linear-gradient(135deg, #6c67f0 34%, #171838 0%);
+    
+    background: black;
 }
 
 .contactUs
