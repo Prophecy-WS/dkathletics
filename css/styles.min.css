@@ -240,7 +240,7 @@ html
 
 body
 {
-    font: 16px 'Open Sans', sans-serif;
+    font: 16px 'Oswald', sans-serif;
     line-height: 1em;
 
     color: white;
@@ -264,8 +264,7 @@ h4
 
 h3
 {
-    font: 48px 'Fira Sans Extra Condensed', sans-serif;
-    font-style: italic;
+    font: 48px 'Oswald', sans-serif;
 
     text-transform: uppercase; 
 
@@ -326,9 +325,8 @@ h3
 }
 .block-title .title span
 {
-    font: 48px 'Fira Sans Extra Condensed', sans-serif;
+    font: 48px 'Oswald', sans-serif;
     font-weight: 500; 
-    font-style: italic;
     line-height: 1em;
 
     position: relative;
@@ -345,9 +343,8 @@ h3
 }
 .block-title .title span::before
 {
-    font: 140px 'Fira Sans Extra Condensed', sans-serif;
+    font: 140px 'Oswald', sans-serif;
     font-weight: 800;
-    font-style: italic;
     line-height: .725em;
 
     position: absolute;
@@ -1055,7 +1052,6 @@ h3
 {
     font: 24px 'Oswald', sans-serif;
     font-weight: 300;
-    font-style: italic;
 
     position: absolute;
     top: 53%;
@@ -1076,9 +1072,8 @@ h3
 
 .big-title
 {
-    font: 180px 'Fira Sans Extra Condensed', sans-serif;
+    font: 180px 'Oswald', sans-serif;
     font-weight: 800;
-    font-style: italic;
     line-height: .85em;
 
     position: absolute;
@@ -3701,10 +3696,9 @@ h3
 }
 .stories-slide__text-title h4::after
 {
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 300px;
     font-weight: 900;
-    font-style: italic;
 
     position: absolute;
     z-index: -1; 
@@ -6399,7 +6393,6 @@ h3
     {
         font: 18px 'Oswald', sans-serif;
         font-weight: 300;
-        font-style: italic;
 
         position: absolute;
         top: 58%;
@@ -6742,7 +6735,7 @@ h3
 
 #mobile-menu__nav li a
 {
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 18px;
     font-weight: 100;
 
@@ -6763,7 +6756,7 @@ h3
 
 #mobile-menu__nav li a::before
 {
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 18px;
     font-weight: 100;
 
@@ -7798,9 +7791,8 @@ h3
 }
 .contactUs__header
 {
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 32px;
-    font-style: italic;
     line-height: .813;
 
     margin-bottom: 35px; 
@@ -7967,9 +7959,8 @@ a[data-hover='Pages']:hover i
 }
 .allClasses__header
 {
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 32px;
-    font-style: italic;
     line-height: .813;
 
     margin-bottom: 35px; 
@@ -8014,7 +8005,7 @@ a[data-hover='Pages']:hover i
 }
 .allClasses__item p
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 15px;
 
     margin-bottom: 35px; 
@@ -8185,9 +8176,8 @@ a[data-hover='Pages']:hover i
 }
 .aboutUs__header
 {
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 32px;
-    font-style: italic;
     line-height: .813;
 
     margin-bottom: 35px; 
