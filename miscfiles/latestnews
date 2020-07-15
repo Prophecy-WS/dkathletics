@@ -1,0 +1,299 @@
+<!-- START: latest news -->
+  <!-- <div class="news">
+        <div class="container">
+          <div class="block-title left">
+            <div class="title light">
+              <span data-description="Latest">Latest news</span>
+            </div>
+            <div class="line"></div>
+          </div>
+          <div class="slider-holder">
+            <ul class="filter-nav">
+              <li class="filter-nav__item active">
+                <h4>
+
+                  <a href="#">All</a>
+
+                </h4>
+              </li>
+              <li class="filter-nav__item">
+                <h4>
+
+                  <a href="#">Crossfit</a>
+
+                </h4>
+              </li>
+              <li class="filter-nav__item">
+                <h4>
+
+                  <a href="#">Gym</a>
+
+                </h4>
+              </li>
+              <li class="filter-nav__item">
+                <h4>
+
+                  <a href="#">Yoga</a>
+
+                </h4>
+              </li>
+            </ul>
+            <div class="threeColSlider newsSliderVol2">
+              <div class="row">
+                <div class="news-slide">
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-1.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-2.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="news-slide">
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-3.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-4.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="news-slide">
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-1.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-2.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="news-slide">
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-3.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-4.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="news-slide">
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-1.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-2.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="news-slide">
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-3.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="news-block">
+                    <div class="news-block__wrapper">
+                      <div class="news-block__img">
+                        <img src="images/new-4.png" alt="image">
+                      </div>
+                      <div class="news-block__text">
+                        <h4 class="news-link"><a href="#">Cras mollis eu lacus id ullamcorper Ut eleifend auctor
+                            velittra tellus</a></h4>
+                        <a href="#" class="news-more">view more</a>
+                        <h4 class="news-coments">Nature / 4 comments</h4>
+                      </div>
+                      <div class="news-date">
+                        <div class="news-date__wrapper">
+                          <span class="news-date__number">23</span>
+                          <span class="news-date__month">Novenber</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="btn-all-news">
+              <a href="#" class="btn primary white" tabindex="0">
+                <span class="border"></span>
+                <span class="btn-content">all news</span>
+              </a>
+            </div>
+            <div class="custom-dots custom-dots--news-vol" data-slider="News"></div>
+          </div>
+        </div>
+      </div> -->
+  <!-- END: latest news -->
