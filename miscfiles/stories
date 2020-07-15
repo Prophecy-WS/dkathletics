@@ -1,0 +1,129 @@
+<!-- START: stories -->
+<div class="stories-vol2">
+    <div class="container">
+      <div class="row">
+        <div class="block-title light col-lg-12">
+          <div class="title">
+            <span data-description="">success stories</span>
+          </div>
+          <div class="line"></div>
+          <div class="slider-holder">
+            <div class="storiesSlider stories-wrapper">
+              <div class="row" data-thumb="images/tabs.jpg">
+                <div class="col-lg-9 col-md-10 col-sm-12 col-xs-12 centered">
+                  <div class="stories-slide">
+                    <div class="stories-slide__image tab-image">
+                      <div class="tab-image__holder">
+                        <img src="images/successone.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="stories-slide__text">
+                      <div class="stories-slide__text-title">
+                        <h4>Aleksandr Dou</h4>
+                      </div>
+                      <p>
+                        Cras in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est, Cras
+                        in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est, Cras
+                        in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est,Cras in
+                        semper ex. Mauris purus blandit arcu ullamcorper
+                        finibus. Aliquam a iaculis est, Cras in semper ex.
+                        Mauris purus blandit arcu ullamcorper finibus.
+                        Aliquam a iaculis est, Cras in semper ex. Mauris
+                        purus blandit arcu ullamcorper finibus. Aliquam a
+                        iaculis est
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row" data-thumb="images/tabs.jpg">
+                <div class="col-lg-9 col-md-10 col-sm-12 col-xs-12 centered">
+                  <div class="stories-slide">
+                    <div class="stories-slide__image tab-image">
+                      <div class="tab-image__holder">
+                        <img src="images/stories-slide.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="stories-slide__text">
+                      <div class="stories-slide__text-title">
+                        <h4>Aleksandr Dou</h4>
+                      </div>
+                      <p>
+                        Cras in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est, Cras
+                        in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est, Cras
+                        in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est,Cras in
+                        semper ex. Mauris purus blandit arcu ullamcorper
+                        finibus. Aliquam a iaculis est, Cras in semper ex.
+                        Mauris purus blandit arcu ullamcorper finibus.
+                        Aliquam a iaculis est, Cras in semper ex. Mauris
+                        purus blandit arcu ullamcorper finibus. Aliquam a
+                        iaculis est
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row" data-thumb="images/tabs.jpg">
+                <div class="col-lg-9 col-md-10 col-sm-12 col-xs-12 centered">
+                  <div class="stories-slide">
+                    <div class="stories-slide__image tab-image">
+                      <div class="tab-image__holder">
+                        <img src="images/stories-slide.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="stories-slide__text">
+                      <div class="stories-slide__text-title">
+                        <h4>Aleksandr Dou</h4>
+                      </div>
+                      <p>
+                        Cras in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est, Cras
+                        in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est, Cras
+                        in semper ex. Mauris purus blandit arcu
+                        ullamcorper finibus. Aliquam a iaculis est,Cras in
+                        semper ex. Mauris purus blandit arcu ullamcorper
+                        finibus. Aliquam a iaculis est, Cras in semper ex.
+                        Mauris purus blandit arcu ullamcorper finibus.
+                        Aliquam a iaculis est, Cras in semper ex. Mauris
+                        purus blandit arcu ullamcorper finibus. Aliquam a
+                        iaculis est
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--<div class="stylized-dots">-->
+            <!--<div class="stylized-dots-wrapper"></div>-->
+            <!--</div>-->
+            <ul class="custom-arrows">
+              <li class="custom-arrows__item">
+                <button class="custom-prev-stories">
+                  <span class="text"></span>
+                  <span class="rhomb">
+                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                  </span>
+                </button>
+              </li>
+              <li class="custom-arrows__item">
+                <button class="custom-next-stories">
+                  <span class="rhomb">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                  </span>
+                  <span class="text"></span>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END: stories -->

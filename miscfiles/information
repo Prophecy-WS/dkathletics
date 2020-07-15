@@ -1,0 +1,41 @@
+<!-- START: information -->
+      <!-- <div class="overal-information">
+        <div class="container">
+          <ul class="row statistic">
+            <li class="statistic__item col-lg-4 col-md-4">
+              <div class="stats">
+                <div class="stats__img">
+                  <img src="images/counter/dumbbell.svg" alt="Icon" />
+                </div>
+                <div class="stats__counter">
+                  <span class="number count-one">10</span>
+                  <span class="description">Different classes</span>
+                </div>
+              </div>
+            </li>
+            <li class="statistic__item col-lg-4 col-md-4">
+              <div class="stats">
+                <div class="stats__img">
+                  <img src="images/counter/user.svg" alt="Icon" />
+                </div>
+                <div class="stats__counter">
+                  <span class="number count-two">65</span>
+                  <span class="description">Club members</span>
+                </div>
+              </div>
+            </li>
+            <li class="statistic__item col-lg-4 col-md-4">
+              <div class="stats">
+                <div class="stats__img">
+                  <img src="images/counter/hand.svg" alt="Icon" />
+                </div>
+                <div class="stats__counter">
+                  <span class="number count-three">4</span>
+                  <span class="description">Professional coaches</span>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div> -->
+      <!-- END: information -->

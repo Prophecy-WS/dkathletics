@@ -1,0 +1,145 @@
+<!-- START: best project block -->
+  <!-- <div class="best-project">
+        <div class="container">
+          <div class="row">
+            <div class="block-title light col-lg-12">
+              <div class="title">
+                <span data-description="our sport work">The best project</span>
+              </div>
+              <div class="line"></div>
+            </div>
+          </div>
+        </div>
+        <div class="filter-block">
+          <div class="filter-wrapper">
+            <div class="filter-slick active" data-filter="all">show all</div>
+            <div class="filter-slick" data-filter="fitness">fitness</div>
+            <div class="filter-slick" data-filter="crossfit">crossfit</div>
+            <div class="filter-slick" data-filter="gym">gym</div>
+            <div class="filter-slick" data-filter="yoga">yoga</div>
+          </div>
+          <div class="grid-flipster filterSlider">
+            <div class="flipsterWrapper">
+              <div class="element-item all fitness">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-4.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all yoga">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-3.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all crossfit">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-5.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all crossfit yoga">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-2.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all gym">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-1.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all gym">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-1.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all gym">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-1.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all gym">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-1.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="element-item all gym">
+                <div class="element-item__wrapper">
+                  <div class="fillter-img-holder">
+                    <img src="images/filter-1.jpg" alt="image">
+                  </div>
+                  <div class="fillter-content-active">
+                    <h3>Nikin 13</h3>
+                    <span>gym</span>
+                    <p>Cras in semper ex. Mauris tincidunt
+                      <br>purus blandit arcu</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="custom-arrow-filter"></div>
+        </div>
+      </div> -->
+  <!-- END: best project block -->
