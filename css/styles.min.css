@@ -7992,11 +7992,14 @@ a[data-hover='Pages']:hover i
 {
     width: 30%; 
     max-width: 340px;
+    padding: 10px;
 }
 .allClasses__item span
 {
     font-family: 'Oswald', sans-serif;
     font-weight: 500;
+    text-align: center;
+    font-size: 22px;
 
     display: block; 
 
@@ -8012,6 +8015,7 @@ a[data-hover='Pages']:hover i
 {
     font-family: 'Oswald', sans-serif;
     font-size: 15px;
+    text-align: center;
 
     margin-bottom: 35px; 
 
@@ -8020,14 +8024,14 @@ a[data-hover='Pages']:hover i
 .allClasses__item__link
 {
     color: #fff;
+    text-align: center;
 }
 .allClasses__item__link a
 {
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
-
     margin-right: 5px; 
-
+font-size: 30px;
     color: #fff;
 }
 
